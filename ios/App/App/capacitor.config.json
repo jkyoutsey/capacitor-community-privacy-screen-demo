@@ -5,19 +5,9 @@
 	"npmClient": "npm",
 	"webDir": "www",
 	"plugins": {
-		"SplashScreen": {
-			"launchShowDuration": 0
-		},
 		"PrivacyScreen": {
 			"enable": false,
 			"imageName": "Splash"
-		},
-		"Badge": {
-			"persist": true,
-			"autoClear": true
-		},
-		"DatetimePicker": {
-			"theme": "auto"
 		}
 	},
 	"cordova": {}

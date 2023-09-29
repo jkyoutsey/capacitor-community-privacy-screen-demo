@@ -3,137 +3,32 @@ PODS:
     - CapacitorCordova
   - CapacitorApp (5.0.6):
     - Capacitor
-  - CapacitorCamera (5.0.7):
-    - Capacitor
-  - CapacitorCommunityKeepAwake (4.0.0):
-    - Capacitor
   - CapacitorCommunityPrivacyScreen (4.2.0):
     - Capacitor
-  - CapacitorCommunityTextToSpeech (3.0.1):
-    - Capacitor
   - CapacitorCordova (5.3.0)
-  - CapacitorFilesystem (5.1.3):
-    - Capacitor
-  - CapacitorHaptics (5.0.6):
-    - Capacitor
-  - CapacitorKeyboard (5.0.6):
-    - Capacitor
-  - CapawesomeCapacitorAppUpdate (5.0.1):
-    - Capacitor
-  - CapawesomeCapacitorBackgroundTask (5.0.0):
-    - Capacitor
-  - CapawesomeCapacitorBadge (5.0.0):
-    - Capacitor
-  - CapawesomeCapacitorCloudinary (5.1.0):
-    - Capacitor
-    - Cloudinary (= 3.3.0)
-  - CapawesomeCapacitorFilePicker (5.1.0):
-    - Capacitor
-  - CapawesomeCapacitorManagedConfigurations (5.0.0):
-    - Capacitor
-  - CapawesomeCapacitorPhotoEditor (5.0.0):
-    - Capacitor
-  - CapawesomeCapacitorScreenOrientation (5.0.0):
-    - Capacitor
-  - CapawesomeTeamCapacitorDatetimePicker (5.1.0):
-    - Capacitor
-  - CapawesomeTeamCapacitorFileOpener (5.0.3):
-    - Capacitor
-  - Cloudinary (3.3.0):
-    - Cloudinary/ios (= 3.3.0)
-  - Cloudinary/ios (3.3.0)
 
 DEPENDENCIES:
   - "Capacitor (from `../../node_modules/@capacitor/ios`)"
   - "CapacitorApp (from `../../node_modules/@capacitor/app`)"
-  - "CapacitorCamera (from `../../node_modules/@capacitor/camera`)"
-  - "CapacitorCommunityKeepAwake (from `../../node_modules/@capacitor-community/keep-awake`)"
   - "CapacitorCommunityPrivacyScreen (from `../../node_modules/@capacitor-community/privacy-screen`)"
-  - "CapacitorCommunityTextToSpeech (from `../../node_modules/@capacitor-community/text-to-speech`)"
   - "CapacitorCordova (from `../../node_modules/@capacitor/ios`)"
-  - "CapacitorFilesystem (from `../../node_modules/@capacitor/filesystem`)"
-  - "CapacitorHaptics (from `../../node_modules/@capacitor/haptics`)"
-  - "CapacitorKeyboard (from `../../node_modules/@capacitor/keyboard`)"
-  - "CapawesomeCapacitorAppUpdate (from `../../node_modules/@capawesome/capacitor-app-update`)"
-  - "CapawesomeCapacitorBackgroundTask (from `../../node_modules/@capawesome/capacitor-background-task`)"
-  - "CapawesomeCapacitorBadge (from `../../node_modules/@capawesome/capacitor-badge`)"
-  - "CapawesomeCapacitorCloudinary (from `../../node_modules/@capawesome/capacitor-cloudinary`)"
-  - "CapawesomeCapacitorFilePicker (from `../../node_modules/@capawesome/capacitor-file-picker`)"
-  - "CapawesomeCapacitorManagedConfigurations (from `../../node_modules/@capawesome/capacitor-managed-configurations`)"
-  - "CapawesomeCapacitorPhotoEditor (from `../../node_modules/@capawesome/capacitor-photo-editor`)"
-  - "CapawesomeCapacitorScreenOrientation (from `../../node_modules/@capawesome/capacitor-screen-orientation`)"
-  - "CapawesomeTeamCapacitorDatetimePicker (from `../../node_modules/@capawesome-team/capacitor-datetime-picker`)"
-  - "CapawesomeTeamCapacitorFileOpener (from `../../node_modules/@capawesome-team/capacitor-file-opener`)"
-
-SPEC REPOS:
-  trunk:
-    - Cloudinary
 
 EXTERNAL SOURCES:
   Capacitor:
     :path: "../../node_modules/@capacitor/ios"
   CapacitorApp:
     :path: "../../node_modules/@capacitor/app"
-  CapacitorCamera:
-    :path: "../../node_modules/@capacitor/camera"
-  CapacitorCommunityKeepAwake:
-    :path: "../../node_modules/@capacitor-community/keep-awake"
   CapacitorCommunityPrivacyScreen:
     :path: "../../node_modules/@capacitor-community/privacy-screen"
-  CapacitorCommunityTextToSpeech:
-    :path: "../../node_modules/@capacitor-community/text-to-speech"
   CapacitorCordova:
     :path: "../../node_modules/@capacitor/ios"
-  CapacitorFilesystem:
-    :path: "../../node_modules/@capacitor/filesystem"
-  CapacitorHaptics:
-    :path: "../../node_modules/@capacitor/haptics"
-  CapacitorKeyboard:
-    :path: "../../node_modules/@capacitor/keyboard"
-  CapawesomeCapacitorAppUpdate:
-    :path: "../../node_modules/@capawesome/capacitor-app-update"
-  CapawesomeCapacitorBackgroundTask:
-    :path: "../../node_modules/@capawesome/capacitor-background-task"
-  CapawesomeCapacitorBadge:
-    :path: "../../node_modules/@capawesome/capacitor-badge"
-  CapawesomeCapacitorCloudinary:
-    :path: "../../node_modules/@capawesome/capacitor-cloudinary"
-  CapawesomeCapacitorFilePicker:
-    :path: "../../node_modules/@capawesome/capacitor-file-picker"
-  CapawesomeCapacitorManagedConfigurations:
-    :path: "../../node_modules/@capawesome/capacitor-managed-configurations"
-  CapawesomeCapacitorPhotoEditor:
-    :path: "../../node_modules/@capawesome/capacitor-photo-editor"
-  CapawesomeCapacitorScreenOrientation:
-    :path: "../../node_modules/@capawesome/capacitor-screen-orientation"
-  CapawesomeTeamCapacitorDatetimePicker:
-    :path: "../../node_modules/@capawesome-team/capacitor-datetime-picker"
-  CapawesomeTeamCapacitorFileOpener:
-    :path: "../../node_modules/@capawesome-team/capacitor-file-opener"
 
 SPEC CHECKSUMS:
   Capacitor: 1ac9165943bc4f2137642d218c5ba05df811de69
   CapacitorApp: 024e1b1bea5f883d79f6330d309bc441c88ad04a
-  CapacitorCamera: 084b0b228bba7d00587910337b1c89e93b1d32ab
-  CapacitorCommunityKeepAwake: f3442e3e9b666dd0162522fbd053da1fe81ede20
   CapacitorCommunityPrivacyScreen: f9d98275ba27167f88fb50dfd50ebc563dad1f8b
-  CapacitorCommunityTextToSpeech: a47d2746124fc06f1018791b3f154cfd2c5c4fe6
   CapacitorCordova: b9374d68e63ce29e96ab5db994cf14fbefd722c9
-  CapacitorFilesystem: 9b4641db3d6d62b6cc1bf0a6a09681ebaea696b7
-  CapacitorHaptics: 1fffc1217c7e64a472d7845be50fb0c2f7d4204c
-  CapacitorKeyboard: b978154b024a5f65e044908e37d15b7de58b9d12
-  CapawesomeCapacitorAppUpdate: abbfaa26fe3817dce42bd722731acc23e7a3274c
-  CapawesomeCapacitorBackgroundTask: 53d905ff7c76d3a3ccf7d23bd8078c1ad7c55c09
-  CapawesomeCapacitorBadge: 2b9919ea79b85bdc5455143cf6607c9e25bec9ae
-  CapawesomeCapacitorCloudinary: b26aa866e62b502e3c4dd2b2fc36446d34e28d4f
-  CapawesomeCapacitorFilePicker: 751291bd23e004aec717755c016b696ba35943a8
-  CapawesomeCapacitorManagedConfigurations: 87db7aa30986c411b7a285d273b780acaca9b91a
-  CapawesomeCapacitorPhotoEditor: 26744e6317c4d781f6479336bd989dc3edb5498b
-  CapawesomeCapacitorScreenOrientation: 5b7cfb76348775e4b824bf460e5c52212b94c8d1
-  CapawesomeTeamCapacitorDatetimePicker: 7e264d511d7bef99abbc80adb360bb97d98d7f9d
-  CapawesomeTeamCapacitorFileOpener: 066077ffd3c179311e2fc0e484125d68b55d45dc
-  Cloudinary: c6a6a66b8b9aac18dce2ad54eb0243ea5e5119b8
 
-PODFILE CHECKSUM: 058c4af4941abe3990a7214f54fea9bae7e097b9
+PODFILE CHECKSUM: 77af35a4481b1ed597180ef46dcbc7bd19023055
 
 COCOAPODS: 1.12.1
